@@ -1,0 +1,16 @@
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\bin\Debug\net6.0-windows\thread4IG.exe
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\bin\Debug\net6.0-windows\thread4IG.deps.json
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\bin\Debug\net6.0-windows\thread4IG.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\bin\Debug\net6.0-windows\thread4IG.dll
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\bin\Debug\net6.0-windows\thread4IG.pdb
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.Form1.resources
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.csproj.GenerateResource.cache
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.dll
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\refint\thread4IG.dll
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.pdb
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\thread4IG.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\thread4IG\thread4IG\obj\Debug\net6.0-windows\ref\thread4IG.dll
