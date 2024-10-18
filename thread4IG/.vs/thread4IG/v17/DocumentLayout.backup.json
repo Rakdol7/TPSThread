@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|c:\\users\\proprietario\\desktop\\tpsthread\\thread4ig\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|solutionrelative:thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|c:\\users\\proprietario\\desktop\\tpsthread\\thread4ig\\thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|solutionrelative:thread4ig\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|c:\\users\\proprietario\\desktop\\tpsthread\\thread4ig\\thread4ig\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01985007-925D-4176-9CDE-B1EBC900FC94}|thread4IG\\thread4IG.csproj|solutionrelative:thread4ig\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "thread4IG\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.Designer.cs",
+              "RelativeToolTip": "thread4IG\\Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:23:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.cs",
+              "RelativeDocumentMoniker": "thread4IG\\Form1.cs",
+              "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.cs",
+              "RelativeToolTip": "thread4IG\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:38:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.cs",
+              "RelativeDocumentMoniker": "thread4IG\\Form1.cs",
+              "ToolTip": "C:\\Users\\PROPRIETARIO\\Desktop\\TPSThread\\thread4IG\\thread4IG\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "thread4IG\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:38:45.679Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
